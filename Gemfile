@@ -44,4 +44,4 @@ group :development, :test do
 end
 
 gem 'active_model_serializers'
-gem 'devise' # , :github => 'plataformatec/devise'
+gem 'devise', '3.0.2' #, :github => 'plataformatec/devise'
