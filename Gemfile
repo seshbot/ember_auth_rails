@@ -13,7 +13,7 @@ end
 
 # jquery-rails is used by the dummy application
 gem "jquery-rails"
-gem 'rails','3.2.13'
+gem 'rails', '4.0.2'
 
 #gem 'multiauth',:github => "mharris717/multiauth", :branch => :master
 
